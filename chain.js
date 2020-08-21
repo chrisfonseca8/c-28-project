@@ -3,7 +3,7 @@ class Chain{
         var options = {
             bodyA: bodyA,
             pointB:pointB,
-            stiffness:0.0080,
+            stiffness:0.004,
             length:20
          }
 
